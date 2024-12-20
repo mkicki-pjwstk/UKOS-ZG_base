@@ -1,0 +1,1 @@
+# Projekt grupowy z GIT
